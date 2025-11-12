@@ -105,3 +105,4 @@ replace github.com/davidmontoyago/pulumi-gcp-ai-batch/example-bert-sentiment-ana
 replace github.com/davidmontoyago/pulumi-gcp-ai-batch/example-llama-sentiment-analysis => ./examples/llama-sentiment-analysis
 
 replace github.com/davidmontoyago/pulumi-gcp-ai-batch/example-mistral-code-change-review => ./examples/mistral-code-change-review
+// version rev
