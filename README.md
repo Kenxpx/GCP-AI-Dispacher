@@ -1,4 +1,4 @@
-# GCP-Model-Dispacher
+# GCP-AI-Dispatcher
 
 [![Develop](https://github.com/davidmontoyago/pulumi-gcp-ai-batch/actions/workflows/develop.yaml/badge.svg)](https://github.com/davidmontoyago/pulumi-gcp-ai-batch/actions/workflows/develop.yaml) [![Go Coverage](https://raw.githubusercontent.com/wiki/davidmontoyago/pulumi-gcp-ai-batch/coverage.svg)](https://raw.githack.com/wiki/davidmontoyago/pulumi-gcp-ai-batch/coverage.html) [![Go Reference](https://pkg.go.dev/badge/github.com/davidmontoyago/pulumi-gcp-ai-batch.svg)](https://pkg.go.dev/github.com/davidmontoyago/pulumi-gcp-ai-batch)
 
